@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --theme-dark-bg: #111827;
+    --theme-light-bg: #ffffff;
+    --text-color: #d9c9ce;
+    --text-hover: #808080ee;
+    --getstart: #115e59;
+    --gold-text: #a9792b;
+    --view-curri: #7c5920;
+}
+body{
+    
+}
